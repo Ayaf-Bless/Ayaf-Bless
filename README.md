@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayaf-Bless
-- 👀 I’m interested in web and mobile development 
-- 🌱 I’m currently learning react native 
+- 👀 I’m a back-end dev
+- 🌱 I’m currently learning django
 - 📫 How to reach me: blessambel1@gmail.com 
 
 <!---

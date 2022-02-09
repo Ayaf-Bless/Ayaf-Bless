@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayaf-Bless
-- 👀 I’m a back-end dev
-- 🌱 I’m currently learning django with rest and graphQL
+- 👀 I’m introduce myself as a back-end dev because I love backend though i can handle the front-end part as well
+- 🌱 I’m currently focussing on mini-service architecture
 - 📫 How to reach me: blessambel1@gmail.com
 
 <!---

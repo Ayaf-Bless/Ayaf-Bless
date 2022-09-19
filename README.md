@@ -1,18 +1,18 @@
 # 👋 Hello I am Bless Ambele(Ayaf) :
-● Good communication skills and very tactful collaborator,
+* Good communication skills and very tactful collaborator,
 understanding how important communication is \
-● Good team work ability, ready to help my colleagues and
+* Good team work ability, ready to help my colleagues and
 whenever necessary, ready to ask for help \
-● High understanding of complicated things related to computer
+* High understanding of complicated things related to computer
 science such as data structure, algorithm \
-● Passionate about web-development and stored big amount of
+* Passionate about web-development and stored big amount of
 knowledge on the topic and working hard to keep myself learning
 more about and getting better and better \
-● Creative in designing layout and applying design principles,
+* Creative in designing layout and applying design principles,
 motivated by empathy and make sure my designs reflex that \
-● Proficiency with writing codes that are scalable,manageable and
+* Proficiency with writing codes that are scalable,manageable and
 easy to read and to understand 
-
+<br\>
 <img align="right" alt="coding gif" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
 ## 🌐Socials

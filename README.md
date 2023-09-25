@@ -1,4 +1,4 @@
-# 👋 Hello I am Bless Ambele(Ayaf):
+#👋 Hello I am Bless Ambele(Ayaf):
 Full-Stack Web Developer | Crafting High-Quality Applications | JavaScript (TypeScript) | Python (Django) | Node.js (Express.js) | React.js (Next.js) | Infrastructure Provisioning | Networking | Database Management | Backend & Frontend Architecture
 
 Passionate and skilled Full-Stack Web Developer with expertise in JavaScript (TypeScript), Python (Django), Node.js (Express.js), and React.js (Next.js). Experienced in crafting high-quality applications with a strong focus on delivering exceptional user experiences.

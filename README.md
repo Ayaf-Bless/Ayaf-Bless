@@ -1,11 +1,13 @@
 # 👋 Hello I am Bless Ambele(Ayaf):
-Full-Stack Web Developer | Crafting High-Quality Applications | JavaScript (TypeScript) | Python (Django) | Node.js (Express.js) | React.js (Next.js) | Infrastructure Provisioning | Networking | Database Management | Backend & Frontend Architecture
+Seasoned Full-Stack Web Developer | Crafting Exceptional Applications 🚀 | JavaScript (TypeScript) | Python (Django) | Node.js (Express.js) | React.js (Next.js) | Infrastructure Wizard 🌐 | Database Maestro 🗄️
 
-Passionate and skilled Full-Stack Web Developer with expertise in JavaScript (TypeScript), Python (Django), Node.js (Express.js), and React.js (Next.js). Experienced in crafting high-quality applications with a strong focus on delivering exceptional user experiences.
+I'm a passionate and skilled Full-Stack Web Developer with a knack for building high-quality applications that deliver outstanding user experiences. My expertise spans across JavaScript (TypeScript), Python (Django), Node.js (Express.js), and React.js (Next.js).
 
-With a solid background in infrastructure provisioning, networking, and database management, I excel in both backend and front-end architecture. Thriving in collaborative environments, I take full responsibility for my work and constantly seek opportunities to learn from and inspire others.
+With a solid foundation in infrastructure provisioning, networking, and database management, I excel in both backend and frontend architecture. I thrive in collaborative environments, taking full ownership of my work while inspiring those around me.
 
-Driven by a relentless pursuit of optimization and the ability to target the right tools for each project, I am dedicated to continuous learning and growth in my craft. Let's connect and collaborate to build something remarkable together.
+I'm fueled by a relentless drive for optimization, always selecting the right tools for each project. I'm committed to constant growth in my craft and am open to exciting opportunities for learning and collaboration.
+
+And yes, I can make a computer say 'Hello, world!' in 15 different languages. Let's connect and craft something remarkable together!
 <hr />
 <img align="right" alt="coding gif" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 

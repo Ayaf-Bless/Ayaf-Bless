@@ -1,13 +1,17 @@
 # 👋 Hello I am Bless Ambele(Ayaf):
-Seasoned Full-Stack Web Developer | Crafting Exceptional Applications 🚀 | JavaScript (TypeScript) | Python (Django) | Node.js (Express.js) | React.js (Next.js) | Infrastructure Wizard 🌐 | Database Maestro 🗄️
+## What I Do:
+I am a full-stack web developer with expertise in both front-end and back-end development.
+I specialize in building interactive, user-centric web applications using industry-leading technologies like JavaScript (TypeScript), Python (Django), Node.js (ExpressJS, NestJS), and ReactJS (NextJS).
 
-I'm a passionate and skilled Full-Stack Web Developer with a knack for building high-quality applications that deliver outstanding user experiences. My expertise spans across JavaScript (TypeScript), Python (Django), Node.js (Express.js), and React.js (Next.js).
+## How I Do It:
+I leverage my strong technical skills to develop robust back-end infrastructure that ensures smooth operation and scalability.
+I combine this with a passion for user experience (UX) to design intuitive and visually appealing front-end interfaces.
+My collaborative approach fosters a positive work environment where I can effectively communicate with team members to deliver projects on time and within budget.
 
-With a solid foundation in infrastructure provisioning, networking, and database management, I excel in both backend and frontend architecture. I thrive in collaborative environments, taking full ownership of my work while inspiring those around me.
-
-I'm fueled by a relentless drive for optimization, always selecting the right tools for each project. I'm committed to constant growth in my craft and am open to exciting opportunities for learning and collaboration.
-
-And yes, I can make a computer say 'Hello, world!' in 15 different languages. Let's connect and craft something remarkable together!
+## Why I Do It:
+I am driven by the power of technology to solve real-world problems and create positive change.
+I am passionate about crafting web experiences that not only impress users but also have a meaningful impact.
+My commitment to continuous learning ensures I can stay at the forefront of the ever-evolving web development landscape, delivering innovative solutions that meet the evolving needs of the industry.
 <hr />
 <img align="right" alt="coding gif" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 

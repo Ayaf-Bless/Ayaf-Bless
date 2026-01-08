@@ -9,10 +9,10 @@ Strategic Software Architect delivering high-velocity distributed systems that d
 ---
 
 ## ⚡ Strategic Focus
-* [cite_start]**Rapid Deployment:** I specialize in taking complex concepts to production-ready status in under **21 days**. [cite: 34, 64]
-* [cite_start]**Three-Tier Architecture:** Expertise in unified delivery across Backend APIs, Next.js Admin Dashboards, and React Native Mobile (iOS/Android). [cite: 34, 63, 67]
-* [cite_start]**Data Integrity:** Leveraging Kafka, RabbitMQ, and Redis to ensure atomic real-time data consistency in high-volume environments. [cite: 35, 66]
-* [cite_start]**Bilingual Leadership:** Native-level fluency in **English** and **French**, enabling seamless collaboration with global teams. [cite: 28, 29, 36]
+* **Rapid Deployment:** I specialize in taking complex concepts to production-ready status in under **21 days**. 
+* **Three-Tier Architecture:** Expertise in unified delivery across Backend APIs, Next.js Admin Dashboards, and React Native Mobile (iOS/Android). 
+* **Data Integrity:** Leveraging Kafka, RabbitMQ, and Redis to ensure atomic real-time data consistency in high-volume environments.
+* **Bilingual Leadership:** Native-level fluency in **English** and **French**, enabling seamless collaboration with global teams.
 
 ---
 
